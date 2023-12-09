@@ -1,0 +1,66 @@
+{
+    "data": {
+        "sweets": [
+            {
+                "id": 1,
+                "name": "Kaju Katli",
+                "image": "https://www.godavarivantillu.com/cdn/shop/files/KajuKatli.png?v=1686837908",
+                "price": 1000
+            },
+            {
+                "id": 2,
+                "name": "Rasgulla",
+                "image": "https://www.godavarivantillu.com/cdn/shop/files/KajuKatli.png?v=1686837908",
+                "price": 1000
+            },
+            {
+                "id": 3,
+                "name": "Gulab Jamun",
+                "image": "https://www.godavarivantillu.com/cdn/shop/files/KajuKatli.png?v=1686837908",
+                "price": 1000
+            },
+            {
+                "id": 4,
+                "name": "Rava Ladoo",
+                "image": "https://www.godavarivantillu.com/cdn/shop/files/KajuKatli.png?v=1686837908",
+                "price": 1000
+            },
+            {
+                "id": 5,
+                "name": "Rava Ladoo",
+                "image": "https://www.godavarivantillu.com/cdn/shop/files/KajuKatli.png?v=1686837908",
+                "price": 1000
+            },
+            {
+                "id": 6,
+                "name": "Kaju Katli",
+                "image": "https://www.godavarivantillu.com/cdn/shop/files/KajuKatli.png?v=1686837908",
+                "price": 1000
+            },
+            {
+                "id": 7,
+                "name": "Rasgulla",
+                "image": "https://www.godavarivantillu.com/cdn/shop/files/KajuKatli.png?v=1686837908",
+                "price": 1000
+            },
+            {
+                "id": 8,
+                "name": "Gulab Jamun",
+                "image": "https://www.godavarivantillu.com/cdn/shop/files/KajuKatli.png?v=1686837908",
+                "price": 1000
+            },
+            {
+                "id": 9,
+                "name": "Rava Ladoo",
+                "image": "https://www.godavarivantillu.com/cdn/shop/files/KajuKatli.png?v=1686837908",
+                "price": 1000
+            },
+            {
+                "id": 10,
+                "name": "Rava Ladoo",
+                "image": "https://www.godavarivantillu.com/cdn/shop/files/KajuKatli.png?v=1686837908",
+                "price": 1000
+            }
+        ]
+    }
+}
